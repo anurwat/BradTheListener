@@ -1,0 +1,64 @@
+.omg {
+  font-family: Times New Roman;
+  font-size: 200%;
+}
+.middle {
+ text-align: center;
+}
+.words {
+  font-family: Arial;
+}
+.wow {
+  font-family: Times New Roman;
+}
+img{
+  width: 100%;
+  max-width: 400px;
+  object-fit: cover;
+  verticle-align: middle;
+}
+.wrapper{
+  padding:0 15 px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content:space-around;
+  gap: 5 rem;
+}
+.intro {
+  flex: 1;
+  text-align: center;
+  padding-top: 15px;
+}
+li {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 10px 10px;
+  margin-right: 100px ;
+  margin-left: 100px;
+  text-decoration: none;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-family:  Lucida Console;
+  font-size: 150%
+}
+ul{
+  text-align: center;
+  margin: 0;
+  padding: 15px;
+  overflow: hidden;
+  background-color: #c9ac90;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+a{
+  text-align: 30%;
+}
