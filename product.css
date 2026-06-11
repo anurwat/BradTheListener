@@ -1,0 +1,118 @@
+.title {
+  list-style-type: none;
+  margin: 0;
+  padding: 40px;
+  overflow: hidden;
+  background-color: #c9ac90;
+  text-align: center;
+  color: white;
+  font-family: Lucida Console;
+  font-weight: 10;
+  font-size: 40px;
+}
+li {
+  display: inline-block;
+  color: Black;
+  text-align: center;
+  padding: 10px 10px;
+  margin-right: 200px ;
+  margin-left: 200px;
+  text-decoration: none;
+}
+.logo {
+ padding-right: 65px;
+ padding-top: 50px;
+ padding-bottom: 20px;
+ padding-left: 90px;
+ width: 25%;
+ height: 228px;
+}
+.logo1 {
+ padding-top: 50px;
+ padding-bottom: 20px;
+ width: 25%;
+ height: 228px;
+ padding-right: 70px;
+}
+.logo2 {
+ padding-right: 90px;
+ padding-top: 50px;
+ padding-bottom: 20px;
+ width:25%;
+ height: 228px;
+}
+.logo3 {
+  padding-right: 150px;
+ padding-top: 30px;
+ padding-bottom: 20px;
+ width:25%;
+ height: 228px;
+}
+.logo4 {
+ padding-top: 30px;
+ padding-bottom: 20px;
+ width: 25%;
+ height: 228px;
+ padding-right: 70px;
+}
+.logo5 {
+ padding-right: 65px;
+ padding-top: 30px;
+ padding-bottom: 20px;
+ width:25%;
+ height: 228px;
+}
+.logo6 {
+ padding-right: 20px;
+ padding-top: 30px;
+ padding-bottom: 20px;
+ width:25%;
+ height: 200%;
+}
+.logo7 {
+ width: 30%;
+ height: 
+}
+.container {
+  max-width: 100;
+  background-color: #c9ac90;
+  font-size: 50px;
+  color: white;
+  margin: 0;
+  font-family: Arial;
+  font-weight: 25%;
+  font-align
+  text-indent: 8%;
+}
+li {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 10px 10px;
+  margin-right: 100px ;
+  margin-left: 100px;
+  text-decoration: none;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-family:  Lucida Console;
+  font-size: 150%
+}
+ul{
+  text-align: center;
+  margin: 0;
+  padding: 15px;
+  overflow: hidden;
+  background-color: #c9ac90;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+a{
+  text-align: 30%;
+}
